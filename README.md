@@ -76,15 +76,6 @@ Currently expanding into full-stack development with modern backend, databases, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chathushkacol&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathushkacol&layout=compact"/>
-</p>
-
----
-
 ## 🎯 Current Learning Focus
 
 - Advanced React patterns  
@@ -107,4 +98,3 @@ Currently expanding into full-stack development with modern backend, databases, 
 ---
 
 ⭐️ From **Chathushka Colombage**
-
